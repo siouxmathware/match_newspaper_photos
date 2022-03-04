@@ -1,0 +1,14 @@
+{
+    "xml_source": "ABBYY",
+    "method": "VGG16",
+    "n_max": 3,
+    "min_size": 650,
+    "border_cut": 50,
+    "save_features": false,
+    "save_images": true,
+    "newspaper_pattern": "*.jpg",
+    "xml_pattern": "*.xml",
+    "photos_pattern": "*.jpg",
+    "pattern_papername": "^(NHA\\d+_\\d+)",
+    "pattern_photoname": "^(NL+-HlmNHA_\\d+_\\d+[A-Z]+\\d+_\\d+)"
+}

@@ -1,0 +1,14 @@
+{
+    "xml_source": "altoABBYY",
+    "method": "VGG16",
+    "n_max": 3,
+    "min_size": 450,
+    "border_cut": 10,
+    "save_features": false,
+    "save_images": true,
+    "newspaper_pattern": "*.jpeg",
+    "xml_pattern": "*.xml",
+    "photos_pattern": "*.jpg",
+    "pattern_papername": "^(DDD+_\\d+_\\d+)",
+    "pattern_photoname": "^(\\d+_\\d+_\\d+)"
+}
